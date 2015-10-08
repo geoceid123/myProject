@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello geoceid!" );
+        System.out.println( "We start development for the next version!" );
     }
 }
